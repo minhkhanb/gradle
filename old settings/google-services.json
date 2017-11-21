@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "575706364062",
+    "firebase_url": "https://super-atomic-42008687.firebaseio.com",
+    "project_id": "super-atomic-42008687",
+    "storage_bucket": "super-atomic-42008687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575706364062:android:79db42a9c6e253f2",
+        "android_client_info": {
+          "package_name": "pine.game.SuperAtomic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575706364062-ov04kf0ap5fl5lr2j5dc9ltia8q8cju1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "575706364062-tomgl9hjfqmmfroncbbjnpfo3sudcpf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pine.game.SuperAtomic",
+            "certificate_hash": "1af8aff3ba6f95ebd5b6c2a23ff1ec3b2af271be"
+          }
+        },
+        {
+          "client_id": "575706364062-njh363rb7320kh3ml53muip1t16p9rjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pine.game.SuperAtomic",
+            "certificate_hash": "912f6528695415543d7f59220e8e8b4611ab4d87"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-jU5j8ZjhwrfgMfjh-WEWaUHgCo5HGJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575706364062-ov04kf0ap5fl5lr2j5dc9ltia8q8cju1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
